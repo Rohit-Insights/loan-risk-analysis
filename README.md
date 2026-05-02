@@ -53,9 +53,9 @@ Banks need to monitor loan performance and identify high-risk borrowers to reduc
 
 ## 📊 Dashboard Preview
 
-![Summary](dashboard-summary.png)
-![Overview](dashboard-overview.png)
-![Detail](dashboard-detail.png)
+![Summary](dashboards/dashboard-summary.png)  
+![Overview](dashboards/dashboard-overview.png)  
+![Detail](dashboards/dashboard-detail.png)  
 
 ---
 
@@ -133,7 +133,7 @@ Banks need to monitor loan performance and identify high-risk borrowers to reduc
 
 ## 📄 Additional Documentation
 
-- SQL Modeling & Validation: [View PDF](sql-modeling-validation.pdf) 
-- Database Schema: [View PDF](database-schema.pdf)  
-- Insights Analysis: [View PDF](key-insights.pdf)  
+- SQL Modeling & Validation: [View PDF](sql/sql-modeling-validation.pdf)  
+- Database Schema: [View PDF](docs/database-schema.pdf)  
+- Insights Analysis: [View PDF](docs/insights-analysis.pdf)  
 
