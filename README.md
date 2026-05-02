@@ -4,6 +4,17 @@
 
 ---
 
+## 🔑 Quick Summary
+
+- Analyzed 38K+ loans to identify key drivers of default risk  
+- Grades B & C account for ~49% of total defaults  
+- 60-month loans have 2.1× higher default rates  
+- Built SQL-based risk classification and star schema  
+- Delivered insights for loan approval and risk strategy  
+
+
+---
+
 ## 🔹 Business Problem
 
 Banks need to monitor loan performance and identify high-risk borrowers to reduce defaults and improve profitability. This project analyzes lending data to uncover patterns in borrower risk, loan performance, and repayment behavior — enabling better credit decision-making.
