@@ -122,7 +122,7 @@ Banks need to monitor loan performance and identify high-risk borrowers to reduc
 
 ## 📄 Additional Documentation
 
-- SQL Modeling & Validation: [View PDF](SQL-data-modeling & Validation....pdf)  
+- SQL Modeling & Validation: [View PDF](sql-modeling-validation.pdf) 
 - Database Schema: [View PDF](database-schema.pdf)  
 - Insights Analysis: [View PDF](key-insights.pdf)  
 
